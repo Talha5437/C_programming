@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
-char name[] = "Raimal Raja";
-char father_name[] = "Ramchand";
-int age = 19;
+char name[] = "talha arain";
+char father_name[] = "jameel arain";
+int age = 18;
 char grade = 'A';
 
 printf("Name  \t\t:%s\n", name);
